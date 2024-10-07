@@ -979,7 +979,8 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
 
-Const C_IDDOC = 0
+'Const C_IDDOC = 0
+Const C_IDDOC = 111
 Const C_NUMLIN = 1
 Const C_FECHA = 2
 Const C_IDTIPODOC = 3
