@@ -1,0 +1,78 @@
+2024-05-14 17:09:17	09HW007998			0	LPContabilidadTest_Ado638751.exe - LPContabilidad - v.8.1.0 - 10 may 2024, PC: 09HW007998, User: 2207299, pid:21972
+2024-05-14 17:09:17	09HW007998			0	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\LPContab.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:09:17	09HW007998			0	Versión DB: MS Access Jet 3.x; - 3.0
+2024-05-14 17:09:17	09HW007998			0	Register: PC='09HW007998', Usr='2207299', oPid=24904, Pid=21972, in=False
+2024-05-14 17:09:19	09HW007998			0	Registered?: PC='09HW007998', Usr='2207299', oPid=21972, Pid=21972, ni=False, usr='', PathTb: ''
+2024-05-14 17:09:20	09HW007998			0	Main: DM: False => False - False
+2024-05-14 17:09:24	09HW007998	administ		0	Unregister: PC='09HW007998', Usr='2207299', From:2, Pid=21972
+2024-05-14 17:40:16	09HW007998			0	LPContabilidadTest_Ado639108.exe - LPContabilidad - v.8.1.0 - 15 may 2024, PC: 09HW007998, User: 2207299, pid:18640
+2024-05-14 17:40:16	09HW007998			0	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\LPContab.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:16	09HW007998			0	Versión DB: MS Access Jet 3.x; - 3.0
+2024-05-14 17:40:16	09HW007998			0	Register: PC='09HW007998', Usr='2207299', oPid=24904, Pid=18640, in=False
+2024-05-14 17:40:18	09HW007998			0	Registered?: PC='09HW007998', Usr='2207299', oPid=18640, Pid=18640, ni=False, usr='', PathTb: ''
+2024-05-14 17:40:20	09HW007998			0	Main: DM: False => False - False
+2024-05-14 17:40:35	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2023\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:35	09HW007998	administ	76034973	2023	ExecSql: bMsg=False, ; Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'.Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'. (Source: DAO.Database, topic: 5003375); [CREATE INDEX IdxEmpresa ON ParamEmpresa (IdEmpresa, Ano) ] [Dec=1.234,56-True]
+2024-05-14 17:40:35	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2022\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:36	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2023\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:36	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2022\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:36	09HW007998	administ	76034973	2023	ExecSql: bMsg=False, ; Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'.Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'. (Source: DAO.Database, topic: 5003375); [CREATE INDEX IdxEmpresa ON ParamEmpresa (IdEmpresa, Ano) ] [Dec=1.234,56-True]
+2024-05-14 17:40:36	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2023\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:36	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2023\76034973.mdb, Error 3621, No se puede cambiar la contraseña en una base de datos compartida abierta.
+2024-05-14 17:40:38	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2022\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:40:38	09HW007998	administ	76034973	2023	ExecSql: bMsg=False, ; Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'.Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'. (Source: DAO.Database, topic: 5003375); [CREATE INDEX IdxEmpresa ON ParamEmpresa (IdEmpresa, Ano) ] [Dec=1.234,56-True]
+2024-05-14 17:40:38	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2023\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:41:36	09HW007998	administ	76034973	2023	Registered?: PC='09HW007998', Usr='2207299', oPid=18640, Pid=18640, ni=False, usr='', PathTb: 'C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\LPContab.mdb'
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estamos el LoadMeses
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	UltMes=12
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Enero
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Febrero
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Marzo
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Abril
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Mayo
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Junio
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Julio
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Agosto
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Septiembre
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Octubre
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Noviembre
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Agrgamos Mes =Diciembre
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Marcamos Mes =Diciembre
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Consulta estado meses
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 1 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 2 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 3 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 4 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 5 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 6 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 7 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 8 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 9 Abierto
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Mes Abierto = 9
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 10 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 11 Abierto
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Mes Abierto = 11
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Estado mes 12 Cerrado
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Cerramos Rs
+2024-05-14 17:41:42	09HW007998	administ	76034973	2023	Nos vamos
+2024-05-14 17:41:54	09HW007998	administ	76034973	2023	Calendar: Hs_Fecha.visible=True, bLockMonth=False, x=120, y=2280, w=2055, h=255
+2024-05-14 17:41:58	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2022\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:41:58	09HW007998	administ	76034973	2023	ExecSql: bMsg=False, ; Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'.Error 3375, La tabla 'ParamEmpresa' ya tiene un índice llamado 'IdxEmpresa'. (Source: DAO.Database, topic: 5003375); [CREATE INDEX IdxEmpresa ON ParamEmpresa (IdEmpresa, Ano) ] [Dec=1.234,56-True]
+2024-05-14 17:41:58	09HW007998	administ	76034973	2023	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\Empresas\2023\76034973.mdb, Error 3031, No es una contraseña válida.
+2024-05-14 17:42:36	09HW007998	administ	76034973	2023	Registered?: PC='09HW007998', Usr='2207299', oPid=18640, Pid=18640, ni=False, usr='', PathTb: 'C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\LPContab.mdb'
+2024-05-14 17:42:42	09HW007998	administ	76034973	2023	Unregister: PC='09HW007998', Usr='2207299', From:1, Pid=18640
+2024-05-16 17:43:37	09HW007998			0	LPContabilidadTest.exe - LPContabilidad - v.8.1.0 - 15 may 2024, PC: 09HW007998, User: 2207299, pid:35172
+2024-05-16 17:43:37	09HW007998			0	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\LPContab.mdb, Error 3031, No es una contraseña válida.
+2024-05-16 17:43:37	09HW007998			0	Versión DB: MS Access Jet 3.x; - 3.0
+2024-05-16 17:43:37	09HW007998			0	Register: PC='09HW007998', Usr='2207299', oPid=24904, Pid=35172, in=False
+2024-05-16 17:43:38	09HW007998			0	Registered?: PC='09HW007998', Usr='2207299', oPid=35172, Pid=35172, ni=False, usr='', PathTb: ''
+2024-05-16 17:43:40	09HW007998			0	Main: DM: False => False - False
+2024-05-16 17:43:43	09HW007998	administ		0	Unregister: PC='09HW007998', Usr='2207299', From:2, Pid=35172
+2024-05-16 17:43:47	09HW007998			0	LPContabilidadTest_Ado638751.exe - LPContabilidad - v.8.1.0 - 10 may 2024, PC: 09HW007998, User: 2207299, pid:19256
+2024-05-16 17:43:47	09HW007998			0	SetDbSecurity: Seg=False, C:\Users\2207299\source\repos\LPContabilidadV8_1_0_Desarrollo_pipe\Software\Contabilidad70\Datos\LPContab.mdb, Error 3031, No es una contraseña válida.
+2024-05-16 17:43:47	09HW007998			0	Versión DB: MS Access Jet 3.x; - 3.0
+2024-05-16 17:43:47	09HW007998			0	Register: PC='09HW007998', Usr='2207299', oPid=-1, Pid=19256, in=True
+2024-05-16 17:43:47	09HW007998			0	Register: nCon=0, Max=1
+2024-05-16 17:43:47	09HW007998			0	Registered?: PC='09HW007998', Usr='2207299', oPid=19256, Pid=19256, ni=False, usr='', PathTb: ''
+2024-05-16 17:43:48	09HW007998			0	Main: DM: False => False - False
+2024-05-16 17:43:49	09HW007998			0	Unregister: PC='09HW007998', Usr='2207299', From:2, Pid=19256
